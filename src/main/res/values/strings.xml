@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SportsView</string>
+    <string name="enter_txt">Enter</string>
+    <string name="search_info_txt">Enter a team below to get current
+        team line up, statistics, and league
+        standings.</string>
+    <string name="favorites_txt">Favorites</string>
+    <string name="title_activity_team_">Team_Activity</string>
+</resources>
